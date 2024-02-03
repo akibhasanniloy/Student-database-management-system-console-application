@@ -1,2 +1,2 @@
 # Student_database_management_system_using_c++.cpp
-This is our Software Development Project (SDP) using C++. In this project we created admin and student login page and added bunch of options to optimize their experiences for both.
+In this project we(my team) creates a Student Database Management System, allowing users to manage student information efficiently. Users can add, display, search, update, and delete student records. The system stores details like name, ID, marks, and contact information. Data is retrieved and modified using menus for ease of use. This project helps us to practice fundamental C++ concepts like classes, functions, file handling, and data structures while providing a practical application for managing student data.
